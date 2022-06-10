@@ -37,13 +37,19 @@
     margin-right: 20px;
 }
 
+.section {
+    background-image: url('/Users/aleksandramosyagina/Desktop/itgirlschool/my_projects/10-figma_2/figma_2/src/images/photo.jpg');
+    position: relative;
+    min-height: 642px;
+}
+
 .whiteblock {
     position: absolute;
     display: flex;
     justify-content: space-around;
     align-items: center;
     width: 80%;
-    margin: -50px;
+    margin-top: 600px;
     margin-left: 10%;
     padding: 20px 20px 20px 0;
     background-color: white;
@@ -72,10 +78,6 @@
 
 .description1 {
     margin-bottom: -7px;
-}
-
-.section {
-    position: relative;
 }
 
 .squareblock {
