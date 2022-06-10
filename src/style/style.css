@@ -3,7 +3,7 @@
     font-family: montserrat, "open sans", Arial, Helvetica, sans-serif;
 }
 
-.header {
+.header_blocks {
     display: flex;
     height: 48px;
     background-color: rgba(57, 49, 132, 1);
